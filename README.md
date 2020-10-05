@@ -8,3 +8,4 @@
 4. игнорировать все файлы с расширением *.tfvars
 5. игнрировать файлы : override.tf, overridetf.json, и по маске *_override.tf, *_override.tf.json
 6. игнорировать файлы по маске *.terraformrc и terraform.rc
+---in new brannch
